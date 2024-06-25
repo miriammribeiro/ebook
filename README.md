@@ -1,2 +1,3 @@
 # Projeto Ebook gerado por I.A.
-![image](https://github.com/miriammribeiro/ebook/assets/109473921/140548ae-d672-4f36-b74b-02672ec2be98)
+![image](https://github.com/miriammribeiro/ebook/assets/109473921/21087434-8c31-4b78-b709-98562b3f56f1)
+
